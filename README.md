@@ -1,4 +1,4 @@
-# 🏆 KPI 도출 비즈니스 전략 아이디어 경진대회
+# 🏆 [KPI 도출 비즈니스 전략 아이디어 경진대회](https://dacon.io/competitions/official/236248/overview/description)
 작성 예정
 
 </br>

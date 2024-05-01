@@ -1,5 +1,9 @@
-# 🏆 [KPI 도출 비즈니스 전략 아이디어 경진대회](https://dacon.io/competitions/official/236248/overview/description)
-작성 예정
+# 🏆 KPI 도출 비즈니스 전략 아이디어
+
+실제 비즈니스 환경에서 발생하는 복잡한 데이터를 분석하고,   
+기업의 성장과 고객 만족을 도모하는 전략을 개발합니다 🪄
+
+참고: [월간 데이콘 - KPI 도출 비즈니스 전략 아이디어 경진대회](https://dacon.io/competitions/official/236248/overview/description)
 
 </br>
 
